@@ -1,0 +1,433 @@
+{
+  "boards": [
+    {
+      "name": "Platform Launch",
+      "isActive" : false,
+      "columns": [
+        {
+          "name": "Công việc",
+          "tasks": [
+            {
+              "title": "Xây dựng giao diện người dùng cho quy trình giới thiệu",
+              "description": "",
+              "status": "Công việc",
+              "subtasks": [
+                {
+                  "title": "Trang đăng ký                  ",
+                  "isCompleted": true
+                },
+                {
+                  "title": "Trang đăng nhập",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Trang chào mừng",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Xây dựng UI cho tìm kiếm",
+              "description": "",
+              "status": "Công việc",
+              "subtasks": [
+                {
+                  "title": "Trang tìm kiếm",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Xây dựng giao diện người dùng cài đặt",
+              "description": "",
+              "status": "Công việc",
+              "subtasks": [
+                {
+                  "title": "Trang tài khoản",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Trang thanh toán",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "QA và kiểm tra tất cả các hành trình chính của người dùng",
+              "description": "Khi chúng tôi cảm thấy phiên bản một đã sẵn sàng, chúng tôi cần kiểm tra nghiêm ngặt cả bên trong và bên ngoài để xác định bất kỳ lỗ hổng lớn nào.",
+              "status": "Công việc",
+              "subtasks": [
+                {
+                  "title": "Thử nghiệm nội bộ",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Thử nghiệm bên ngoài",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Đang làm",
+          "tasks": [
+            {
+              "title": "Thiết kế cài đặt và trang tìm kiếm",
+              "description": "",
+              "status": "Đang làm",
+              "subtasks": [
+                {
+                  "title": "Cài đặt - Trang tài khoản",
+                  "isCompleted": true
+                },
+                {
+                  "title": "Cài đặt - Trang thanh toán",
+                  "isCompleted": true
+                },
+                {
+                  "title": "Trang tìm kiếm",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Thêm điểm cuối quản lý tài khoản",
+              "description": "",
+              "status": "Đang làm",
+              "subtasks": [
+                {
+                  "title": "Gói nâng cấp",
+                  "isCompleted": true
+                },
+                {
+                  "title": "Hủy kế hoạch",
+                  "isCompleted": true
+                },
+                {
+                  "title": "Cập nhật phương thức thanh toán",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Luồng giới thiệu thiết kế",
+              "description": "",
+              "status": "Đang làm",
+              "subtasks": [
+                {
+                  "title": "Trang đăng ký",
+                  "isCompleted": true
+                },
+                {
+                  "title": "Đăng nhập trang",
+                  "isCompleted": false
+                },
+                {
+                  "title": "trang chào mừng",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Thêm điểm tìm kiếm",
+              "description": "",
+              "status": "Đang làm",
+              "subtasks": [
+                {
+                  "title": "Thêm điểm cuối tìm kiếm",
+                  "isCompleted": true
+                },
+                {
+                  "title": "Xác định bộ lọc tìm kiếm",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Thêm điểm cuối xác thực",
+              "description": "",
+              "status": "Đang làm",
+              "subtasks": [
+                {
+                  "title": "Xác định mô hình người dùng",
+                  "isCompleted": true
+                },
+                {
+                  "title": "Thêm điểm cuối xác thực",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Nghiên cứu điểm định giá của các đối thủ cạnh tranh khác nhau và thử nghiệm các mô hình kinh doanh khác nhau",
+              "description": "Chúng tôi biết những gì chúng tôi dự định xây dựng cho phiên bản một. Bây giờ, chúng tôi cần hoàn thiện mô hình định giá đầu tiên mà chúng tôi sẽ sử dụng. Tiếp tục lặp đi lặp lại các nhiệm vụ con cho đến khi chúng ta có một đề xuất mạch lạc.",
+              "status": "Đang làm",
+              "subtasks": [
+                {
+                  "title": "Nghiên cứu giá cả đối thủ cạnh tranh và mô hình kinh doanh",
+                  "isCompleted": true
+                },
+                {
+                  "title": "Phác thảo một mô hình kinh doanh phù hợp với giải pháp của chúng tôi",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Nói chuyện với khách hàng tiềm năng về giải pháp đề xuất của chúng tôi và yêu cầu kỳ vọng giá hợp lý",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Xong",
+          "tasks": [
+            {
+              "title": "Tiến hành 5 bài kiểm tra wireframe",
+              "description": "Đảm bảo bố cục tiếp tục có ý nghĩa và chúng tôi có được sự ủng hộ mạnh mẽ từ những người dùng tiềm năng.",
+              "status": "Xong",
+              "subtasks": [
+                {
+                  "title": "Hoàn thành 5 thử nghiệm nguyên mẫu wireframe",
+                  "isCompleted": true
+                }
+              ]
+            },
+            {
+              "title": "Tạo nguyên mẫu wireframe",
+              "description": "Tạo một nguyên mẫu khung dây có thể nhấp được theo thang độ xám để kiểm tra các giả định của chúng tôi cho đến nay.",
+              "status": "Xong",
+              "subtasks": [
+                {
+                  "title": "Tạo nguyên mẫu khung dây có thể nhấp trong Balsamiq",
+                  "isCompleted": true
+                }
+              ]
+            },
+            {
+              "title": "Xem xét kết quả kiểm tra khả năng sử dụng và lặp lại",
+              "description": "Tiếp tục lặp lại các nhiệm vụ phụ cho đến khi chúng ta hiểu rõ về các khái niệm cốt lõi của ứng dụng.",
+              "status": "Xong",
+              "subtasks": [
+                {
+                  "title": "Gặp gỡ để xem xét các ghi chú từ các bài kiểm tra trước và thay đổi kế hoạch",
+                  "isCompleted": true
+                },
+                {
+                  "title": "Thực hiện các thay đổi đối với nguyên mẫu giấy",
+                  "isCompleted": true
+                },
+                {
+                  "title": "Tiến hành 5 bài kiểm tra khả năng sử dụng",
+                  "isCompleted": true
+                }
+              ]
+            },
+            {
+              "title": "Tạo nguyên mẫu giấy và tiến hành 10 bài kiểm tra khả năng sử dụng với khách hàng tiềm năng",
+              "description": "",
+              "status": "Xong",
+              "subtasks": [
+                {
+                  "title": "Tạo nguyên mẫu giấy cho phiên bản một",
+                  "isCompleted": true
+                },
+                {
+                  "title": "Hoàn thành 10 bài kiểm tra khả năng sử dụng",
+                  "isCompleted": true
+                }
+              ]
+            },
+            {
+              "title": "Khám phá thị trường",
+              "description": "Chúng ta cần xác định và tinh chỉnh sản phẩm cốt lõi của mình. Các cuộc phỏng vấn sẽ giúp chúng tôi tìm hiểu những điểm yếu chung và giúp chúng tôi xác định MVP mạnh nhất.",
+              "status": "Xong",
+              "subtasks": [
+                {
+                  "title": "Phỏng vấn 10 khách hàng tiềm năng",
+                  "isCompleted": true
+                }
+              ]
+            },
+            {
+              "title": "Phân tích đối thủ cạnh tranh",
+              "description": "",
+              "status": "Xong",
+              "subtasks": [
+                {
+                  "title": "Tìm đối thủ cạnh tranh trực tiếp và gián tiếp",
+                  "isCompleted": true
+                },
+                {
+                  "title": "Phân tích SWOT cho từng đối thủ cạnh tranh",
+                  "isCompleted": true
+                }
+              ]
+            },
+            {
+              "title": "Nghiên cứu thị trường",
+              "description": "Chúng ta cần có cái nhìn tổng quan chắc chắn về thị trường để đảm bảo chúng ta có những ước tính cập nhật về quy mô và nhu cầu thị trường.",
+              "status": "Xong",
+              "subtasks": [
+                {
+                  "title": "Viết phân tích nghiên cứu",
+                  "isCompleted": true
+                },
+                {
+                  "title": "Tính TÂM",
+                  "isCompleted": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kế hoạch tiếp thị",
+      "isActive" : false,
+      "columns": [
+        {
+          "name": "Công việc",
+          "tasks": [
+            {
+              "title": "Lập kế hoạch ra mắt sản phẩm",
+              "description": "",
+              "status": "Công việc",
+              "subtasks": [
+                {
+                  "title": "Tìm kiếm đối tượng",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Tập hợp tài sản",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Dự thảo trang sản phẩm",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Thông báo cho khách hàng",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Thông báo mạng",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Phóng!",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Chia sẻ trên Show HN",
+              "description": "",
+              "status": "",
+              "subtasks": [
+                {
+                  "title": "Hội thảo",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Nhận phản hồi",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Xuất bản bài viết",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Viết bài giới thiệu để xuất bản trên nhiều kênh",
+              "description": "",
+              "status": "",
+              "subtasks": [
+                {
+                  "title": "Viết bài",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Xuất bản trên LinkedIn",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Xuất bản trên Facebook",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Xuất bản trên phương tiện",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Đang làm",
+          "tasks": []
+        },
+        {
+          "name": "Xong",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Lộ trình",
+      "isActive" : false,
+      "columns": [
+        {
+          "name": "Hiện nay",
+          "tasks": [
+            {
+              "title": "Ra mắt phiên bản một",
+              "description": "",
+              "status": "",
+              "subtasks": [
+                {
+                  "title": "Ra mắt riêng tư vào danh sách chờ của chúng tôi",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Ra mắt công khai trên PH, HN, v.v.",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Xem xét phản hồi sớm và lập kế hoạch các bước tiếp theo cho lộ trình",
+              "description": "Ngoài lần ra mắt đầu tiên, chúng tôi sẽ giữ lộ trình ban đầu hoàn toàn trống. Cuộc họp này sẽ giúp chúng tôi lên kế hoạch cho các bước tiếp theo dựa trên phản hồi thực tế của khách hàng.",
+              "status": "",
+              "subtasks": [
+                {
+                  "title": "Phỏng vấn 10 khách hàng",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Xem xét các điểm và đề xuất phổ biến của khách hàng",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Phác thảo các bước tiếp theo cho lộ trình của chúng tôi",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tiếp theo",
+          "tasks": []
+        },
+        {
+          "name": "Sau đó",
+          "tasks": []
+        }
+      ]
+    }
+  ]
+}
